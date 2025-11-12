@@ -9,7 +9,7 @@ Esta tabela organiza as listas de exercícios concluídas e em andamento. É fá
 
 | Lista | Tópico Principal | Status | Pasta (Link) |
 | :---: | :--- | :---: | :--- |
-| **Lista 01** | Fundamentos/Primeiros códigos | ✅ Concluída | [Lista_01_Fundamentos](0_Lista_01/50 Questões de Python.pdf) |
+| **Lista 01** | Fundamentos/Primeiros códigos | ✅ Concluída | [Lista_01_Fundamentos](c:\Users\nicos\OneDrive\Área de Trabalho\Arquivos\Fundamentos-Logica-PMI-FatecZL--\0_Lista_01\50 Questões de Python.pdf) |
 | **Lista 02** | Estruturas Condicionais | ⏳ Em Andamento | [Lista_02_Estruturas_Condicionais](Lista_02_Estruturas_Condicionais/) |
 | **Lista 03** | Estruturas de Repetição | 🎯 Pendente | - |
 | **Lista N** | Novo Tópico | 💡 Planejada | - |
