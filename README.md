@@ -9,7 +9,7 @@ Esta tabela organiza as listas de exercícios concluídas e em andamento. É fá
 
 | Lista | Tópico Principal | Status | Pasta (Link) |
 | :---: | :--- | :---: | :--- |
-| **Lista 01** | Estruturas Sequenciais | ✅ Concluída | [Lista_01_Estruturas_Sequenciais](Lista_01_Estruturas_Sequenciais/) |
+| **Lista 01** | Fundamentos/Primeiros códigos | ✅ Concluída | [Lista_01_Fundamentos](0_Lista_01/) |
 | **Lista 02** | Estruturas Condicionais | ⏳ Em Andamento | [Lista_02_Estruturas_Condicionais](Lista_02_Estruturas_Condicionais/) |
 | **Lista 03** | Estruturas de Repetição | 🎯 Pendente | - |
 | **Lista N** | Novo Tópico | 💡 Planejada | - |
