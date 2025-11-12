@@ -1,2 +1,23 @@
-# Fundamentos-Logica-PMI-FatecZL/	
-Prática de Programação (FATEC ZL) | Repositório com as soluções em para as listas de exercícios de lógica da disciplina de PMI.
+# 📚 Progrmação em Microinformática (FATEC ZL)
+
+Repositório dedicado a armazenar lições, tarefas e códigos desenvolvidos para as disciplinas de Programação em Microinformática (PMI) e afins. :P
+---
+
+### 📝 Índice de Listas de Exercícios
+
+Esta tabela organiza as listas de exercícios concluídas e em andamento. É fácil de manter e adicionar novas listas!
+
+| Lista | Tópico Principal | Status | Pasta (Link) |
+| :---: | :--- | :---: | :--- |
+| **Lista 01** | Estruturas Sequenciais | ✅ Concluída | [Lista_01_Estruturas_Sequenciais](Lista_01_Estruturas_Sequenciais/) |
+| **Lista 02** | Estruturas Condicionais | ⏳ Em Andamento | [Lista_02_Estruturas_Condicionais](Lista_02_Estruturas_Condicionais/) |
+| **Lista 03** | Estruturas de Repetição | 🎯 Pendente | - |
+| **Lista N** | Novo Tópico | 💡 Planejada | - |
+
+---
+
+### 👤 Desenvolvedor
+
+* **Nicolas Sugai** (Estudante ADS - FATEC ZL)
+* **LinkedIn:** [linkedin.com/in/nicolas-sugai/](https://www.linkedin.com/in/nicolas-sugai/)
+* **Instagram:** [instagram.com/nicolasugai](https://www.instagram.com/nicolasugai)
